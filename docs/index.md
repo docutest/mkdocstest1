@@ -2,6 +2,14 @@
 
 But why??????
 
+imma add a picture
+
+<table><tbody><tr><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p>adsfasdf</p></td><td><p>afaf</p><p>asfasdfasfafç</p><p></p></td></tr></tbody></table>
+
+![](/mi-gimnasio-en-casa.jpg)
+
+&nbsp;
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
