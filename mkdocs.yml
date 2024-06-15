@@ -1,4 +1,4 @@
-site_name: My site
+site_name: testing
 site_url: https://keint20.github.io/mkdocstest1/
 theme:
   name: readthedocs
