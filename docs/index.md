@@ -1,6 +1,6 @@
-# Welcome to Testing1
+# Hello World
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is a test.
 
 ## Commands
 

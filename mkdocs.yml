@@ -1,4 +1,5 @@
 site_name: testing
 site_url: https://keint20.github.io/mkdocstest1/
 theme:
-  name: mkdocs
+  name: material
+  
