@@ -1,21 +1,18 @@
-# Hi world
+# Hello world
 
-Testing
+This is **Docutest.**
 
-&nbsp;
+## And this is the Home page
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
+* This is a bullet point
+* And this another one
 
 ```
-mkdocs.yml    # The configuration file.
-docs/
-    index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
+<p>And this is a block of code</p>
 ```
+
+<table><tbody><tr><td><p>Column 1</p></td><td><p>Column 2</p></td></tr></tbody></table>
+
+Field
+
+<table><tbody><tr><td><p>Column 1</p></td><td><p>Column 2</p></td><td><p>Column 3</p></td></tr></tbody></table>
