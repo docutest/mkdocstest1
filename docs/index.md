@@ -1,8 +1,8 @@
 # Hello world
 
-This is **Docutest.**
+Welcome to **Docutest.**
 
-## And this is the Home page
+## This is the Home page
 
 * This is a bullet point
 * And this another one
