@@ -2,13 +2,11 @@
 
 I am a developer and I'm creating this file.
 
-!!! note
-    Hi!! I am a note
+!!! note Hi!! I am a note
 
-
-``` mermaid
+```mermaid
 graph LR
-  A[Start] --> B{Error?};
+  A[Start] --> B{Hi?};
   B -->|Yes| C[Hmm...];
   C --> D[Debug];
   D --> B;
